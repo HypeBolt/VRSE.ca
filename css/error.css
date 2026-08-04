@@ -52,3 +52,9 @@ main {
 .text a:hover {
     color: white;
 }
+
+@media (max-width: 768px) {
+    .middle {
+        width: 75%;
+    }
+}
